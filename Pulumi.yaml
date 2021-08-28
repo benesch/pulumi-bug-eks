@@ -1,0 +1,6 @@
+name: pulumi-bug-eks
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Demonstrates pulumi preview bug in v3.10.1+
